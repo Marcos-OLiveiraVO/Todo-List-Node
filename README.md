@@ -25,12 +25,19 @@ yarn test
 ## Rotas
 
     POST /users → criar um usuário.
+    
     GET /users/:id → pesquisa um usuário pelo id
+    
     PATCH /users/:id/pro → atualiza o plano do usuário para PRO caso não seja
+   
     GET /todos → lista com todas as tarefas do usuário.
+    
     POST /todos → criar um todo.
+    
     PUT /todos/:id → atualiza um todo.
+    
     PATCH /todos/:id/done → atualiza a propriedade done do todo para true.
+    
     DELETE /todos/:id → deleta um todo pela id
 
 
