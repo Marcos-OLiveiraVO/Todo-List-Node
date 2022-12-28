@@ -9,7 +9,7 @@ O sistema "Todo List" é uma ferramenta extremamente útil para pessoas que dese
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para instalar as dependencias:
 
 ```bash
-$ yarn install
+$ yarn 
 ```
 
 ## Rodar o app
