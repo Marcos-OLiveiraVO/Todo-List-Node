@@ -24,7 +24,7 @@ yarn test
 ```
 
 
-![finance](https://user-images.githubusercontent.com/88260644/209712775-9ae03deb-95d4-46f7-9037-5b759fd18b88.gif)
+![todo-list](https://user-images.githubusercontent.com/88260644/209749758-aa028c63-e379-4c57-957b-18a2ce0e07fa.gif)
 
 
 <h4> 🛠 Projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos: <h4>
