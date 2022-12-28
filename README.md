@@ -3,7 +3,6 @@
 
 O sistema "Todo List" é uma ferramenta extremamente útil para pessoas que desejam organizar suas tarefas e compromissos de maneira eficiente. Ele permite que os usuários criem uma lista de tarefas, adicionem novas tarefas à lista, atualizem tarefas existentes e excluam tarefas concluídas.
 <br>
-<br>
 
 
 ## :rocket:Instalação
