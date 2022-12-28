@@ -1,5 +1,5 @@
 
-## Sobre o Todo List
+## 💻 Sobre o Todo List
 
 O sistema "Todo List" é uma ferramenta extremamente útil para pessoas que desejam organizar suas tarefas e compromissos de maneira eficiente. Ele permite que os usuários criem uma lista de tarefas, adicionem novas tarefas à lista, atualizem tarefas existentes e excluam tarefas concluídas.
 <br>
@@ -22,6 +22,17 @@ $ yarn dev
 ```
 yarn test
 ```
+## Rotas
+
+    POST /users → criar um usuário.
+    GET /users/:id → pesquisa um usuário pelo id
+    PATCH /users/:id/pro → atualiza o plano do usuário para PRO caso não seja
+    GET /todos → lista com todas as tarefas do usuário.
+    POST /todos → criar um todo.
+    PUT /todos/:id → atualiza um todo.
+    PATCH /todos/:id/done → atualiza a propriedade done do todo para true.
+    DELETE /todos/:id → deleta um todo pela id
+
 
 
 ![todo-list](https://user-images.githubusercontent.com/88260644/209749758-aa028c63-e379-4c57-957b-18a2ce0e07fa.gif)
