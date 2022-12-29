@@ -2,6 +2,8 @@
 ## 💻 Sobre o Todo List
 
 O sistema "Todo List" é uma ferramenta extremamente útil para pessoas que desejam organizar suas tarefas e compromissos de maneira eficiente. Ele permite que os usuários criem uma lista de tarefas, adicionem novas tarefas à lista, atualizem tarefas existentes e excluam tarefas concluídas.
+
+O sistema possui dois planos: o plano free e o plano pro. O plano free é gratuito e permite aos usuários criar até 10 tarefas. Já o plano pro oferece uma série de recursos adicionais, como a possibilidade de criar uma quantidade ilimitada de tarefas, acesso a relatórios avançados e integração com outras ferramentas.
 <br>
 
 
